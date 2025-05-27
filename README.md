@@ -8,7 +8,6 @@
 
 ## 🔍 Featured Projects  
 ✅ **AI-Powered Business Insights Dashboard** – Predict trends & automate data-driven decisions.  
-✅ **Customer Churn Prediction Model** – Machine learning model to analyze retention risks.  
 ✅ **Sentiment Analysis for Call Center Automation** – NLP-powered insights from customer interactions.  
 
 ---
