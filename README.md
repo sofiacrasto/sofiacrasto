@@ -21,9 +21,11 @@
 ---
 
 ## 📌 Connect With Me  
+
 📧 **Email:** sofiajcrasto@gmail.com  
 🔗 **LinkedIn:** [Sofia Crasto](https://www.linkedin.com/in/sofia-crasto-137768228)  
 💻 **GitHub:**   [Sofia Crasto](https://github.com/sofiacrasto)
+
 🌐 **Portfolio:** [Your Portfolio Link]  
 
 ✍ _Always learning, always building!_ 🚀  
